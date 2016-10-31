@@ -1,0 +1,2 @@
+# quiteearth
+Simple meteor project
